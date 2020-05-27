@@ -22,7 +22,7 @@ public class FindAndReplaceInString {
         StringBuilder sb = new StringBuilder();
         int startIdx = 0;
         for (Replacement validRep : validReps) {
-            sb.append(S.substring(startIdx, validRep.index));
+            sb.append(S, startIdx, validRep.index);
             sb.append(validRep.target);
             startIdx = validRep.getNextIndex();
         }
