@@ -1,4 +1,4 @@
-package medium;
+package strings.medium;
 
 public class BasicCalculator2 {
     public int calculate(String s) {

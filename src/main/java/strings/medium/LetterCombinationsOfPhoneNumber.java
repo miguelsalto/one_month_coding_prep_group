@@ -1,4 +1,4 @@
-package medium;
+package strings.medium;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

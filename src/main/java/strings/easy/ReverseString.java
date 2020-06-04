@@ -1,4 +1,4 @@
-package easy;
+package strings.easy;
 
 public class ReverseString {
     public void reverseString(char[] s) {

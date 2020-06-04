@@ -1,4 +1,4 @@
-package easy;
+package strings.easy;
 
 public class RepeatedSubstringPattern {
     public boolean repeatedSubstringPattern(String s) {

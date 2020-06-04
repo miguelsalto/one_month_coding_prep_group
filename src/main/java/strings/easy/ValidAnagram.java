@@ -1,4 +1,4 @@
-package easy;
+package strings.easy;
 
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {

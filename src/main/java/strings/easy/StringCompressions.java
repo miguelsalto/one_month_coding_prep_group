@@ -1,4 +1,4 @@
-package easy;
+package strings.easy;
 
 public class StringCompressions {
     public int compress(char[] chars) {

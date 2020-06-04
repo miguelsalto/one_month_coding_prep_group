@@ -1,4 +1,4 @@
-package medium;
+package strings.medium;
 
 public class StringToInteger {
     public int myAtoi(String str) {

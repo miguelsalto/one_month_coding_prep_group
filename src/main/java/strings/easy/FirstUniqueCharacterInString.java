@@ -1,4 +1,4 @@
-package easy;
+package strings.easy;
 
 public class FirstUniqueCharacterInString {
     public int firstUniqChar(String s) {
